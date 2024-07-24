@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Instructor and Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Departments of Computer Science and Mathematics, Dalhousie University"
+date: 2018-2022
+location: "Halifax, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Courses: Statistical Data Mining, Machine Learning, Deep Learning, Natural Language Processing, Linear Algebra, Serverless Data Processing, Principles of Computer Programming, Cloud Computing, Design and Analysis of Algorithms, Data Structures and Algorithms, Graph Theory, Discrete Mathematics, Graph Machine Learning Algorithms. 
 
-Heading 1
+Preparing teaching materials
 ======
 
-Heading 2
+Teaching and coordinating the labs
 ======
 
-Heading 3
+Marking the exams
 ======
